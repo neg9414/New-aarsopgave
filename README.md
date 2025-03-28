@@ -1,13 +1,3 @@
-# Årsopgave i programmering 
-
-Læs disse punkter **grundigt** før du går i gang
-
-- Løs så mange opgaver som du kan i løbet af projektet
-- Der må ikke bruges AI, heller ikke Copilot
-- Få hver løsning godkendt før du går videre til næste opgave
-- Man må gerne samarbejde men alle afleverer individuelt
-- Husk at kommentere koden efter python-standarder
-
-**github**
-- Gemme din arbejde i github når du er færdig med en opgave
-- Gem kun kode der fungerer i github
+# Synopsis
+## Projektbeskrivelse 
+### Mille er en historie studerende der går på københavns universitet. Mille skal snart op i historie eksamen og skal derfor på bibliotekt for at finde de specifike bøger hun skal bruge. Hun skal finde specifikke tidsperioder, forfattere, titler og årstal. Men det er et meget stort bibliotek så hun har derfor brug for en computer program hvor hun kan slå bøgerne op for at vide hvilke bøger hun skal brugeuden at spilde en hel dag på at lede på biblioteket.
