@@ -11,4 +11,3 @@ Jessica & Marie 2r
 * Tidsperioder... fx. romantiken osv.
 * Årsdatoer 
 
-![Use case](Flowchart use-case.png)
