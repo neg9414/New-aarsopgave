@@ -10,3 +10,5 @@ Jessica & Marie 2r
 * Bogtype... fx. roman, digte osv.
 * Tidsperioder... fx. romantiken osv.
 * Årsdatoer 
+
+![Use case](Flowchart use-case.png)
