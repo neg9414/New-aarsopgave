@@ -18,9 +18,12 @@ Husk at krav skale være målelige, præcise og tage udgangspunkt projektbeskrev
 
 Opdel gerne kravene i to bunker: minimumkrav (hårde krav, need-to-have, MVP) og almindelige krav (nice-to-have).
 
-Eksempel:
-
-titel -> beskrivelse -> prioritet
+| titel            	| Beskrivelse                                               	| prioritet    	|
+|------------------	|-----------------------------------------------------------	|--------------	|
+| Søge maskine     	| Man skal kunne søge på bøger                              	| need-to-have 	|
+| Menu             	| Man skal kunne gå ind under forskellige kategorier        	| nice-to-have 	|
+| Flot program     	| Det skal se indbydende ud for brugeren                    	| nice-to-have 	|
+| Forside af bøger 	| Man skal kunne se bøgernes forside når man går ind på dem 	| nice-to-have 	|
 
 
 ## Programbeskrivelse med rutediagrammer
