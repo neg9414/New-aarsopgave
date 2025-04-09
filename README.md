@@ -15,7 +15,7 @@ Jessica & Marie 2r
 | titel            	| Beskrivelse                                               	| prioritet    	|
 |------------------	|-----------------------------------------------------------	|--------------	|
 | Søge maskine     	| Man skal kunne søge på bøger                              	| need-to-have 	|
-| Menu             	| Man skal kunne gå ind under forskellige kategorier        	| nice-to-have 	|
+| Menu             	| Man skal kunne gå ind under forskellige kategorier        	| need-to-have 	|
 | Flot program     	| Det skal se indbydende ud for brugeren                    	| nice-to-have 	|
 | Forside af bøger 	| Man skal kunne se bøgernes forside når man går ind på dem 	| nice-to-have 	|
 
@@ -26,6 +26,8 @@ Vi har valgt at lave to forskellige flowcharts. Det ene flowchart hedder "use-ca
 Use-case:
 ![image](Use-case.png)
 
+Program-logik:
+(ik endnu)
 
 ## Rolle-fordeling (arbejdsfordeling)
 Redegørelse for arbejdsfordelingen i gruppen.
