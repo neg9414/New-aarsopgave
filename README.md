@@ -11,3 +11,31 @@ Jessica & Marie 2r
 * Tidsperioder... fx. romantiken osv.
 * Årsdatoer 
 
+## Kravspecifikation
+Lav en kravspecifikation i tabelform som specificerer programmets funktionalitet. Gør det gerne i tabelform. Man kan bruge Markdown Table Generator til formålet.
+
+Husk at krav skale være målelige, præcise og tage udgangspunkt projektbeskrevelsen.
+
+Opdel gerne kravene i to bunker: minimumkrav (hårde krav, need-to-have, MVP) og almindelige krav (nice-to-have).
+
+Eksempel:
+
+titel -> beskrivelse -> prioritet
+
+
+## Programbeskrivelse med rutediagrammer
+Skriv en kort programbeskrivelse her.
+
+Lav et rutediagram som beskriver hvordan den centrale del af programmet er opbygget.
+
+## Rolle-fordeling (arbejdsfordeling)
+Redegørelse for arbejdsfordelingen i gruppen.
+
+## Kilder og ressourcer
+Redegørelse for brug af eksterne ressourcer og kilder.
+
+## Brug af AI
+Redegørelse for brug af AI.
+
+## Evaluering og vurdering
+Sammenfattende konklusion og vurdering.
