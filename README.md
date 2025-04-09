@@ -12,12 +12,6 @@ Jessica & Marie 2r
 * Årsdatoer 
 
 ## Kravspecifikation
-Lav en kravspecifikation i tabelform som specificerer programmets funktionalitet. Gør det gerne i tabelform. Man kan bruge Markdown Table Generator til formålet.
-
-Husk at krav skale være målelige, præcise og tage udgangspunkt projektbeskrevelsen.
-
-Opdel gerne kravene i to bunker: minimumkrav (hårde krav, need-to-have, MVP) og almindelige krav (nice-to-have).
-
 | titel            	| Beskrivelse                                               	| prioritet    	|
 |------------------	|-----------------------------------------------------------	|--------------	|
 | Søge maskine     	| Man skal kunne søge på bøger                              	| need-to-have 	|
@@ -27,9 +21,11 @@ Opdel gerne kravene i to bunker: minimumkrav (hårde krav, need-to-have, MVP) og
 
 
 ## Programbeskrivelse med rutediagrammer
-Skriv en kort programbeskrivelse her.
+Vi har valgt at lave to forskellige flowcharts. Det ene flowchart hedder "use-case" det viser hvordan en person kan bruge programmet samt hvilke muligheder de har. Det andet flowchart hedder "program-logik" som er et flowchart der viser program logikken når en person prøver det.
 
-Lav et rutediagram som beskriver hvordan den centrale del af programmet er opbygget.
+Use-case:
+![image](Use-case.png)
+
 
 ## Rolle-fordeling (arbejdsfordeling)
 Redegørelse for arbejdsfordelingen i gruppen.
