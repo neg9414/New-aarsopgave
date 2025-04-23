@@ -12,12 +12,12 @@ Jessica & Marie 2r
 * Årsdatoer 
 
 ## Kravspecifikation
-| titel            	| Beskrivelse                                               	| prioritet    	|
-|------------------	|-----------------------------------------------------------	|--------------	|
-| Søge maskine     	| Man skal kunne søge på bøger                              	| need-to-have 	|
-| Menu             	| Man skal kunne gå ind under forskellige kategorier        	| need-to-have 	|
-| Flot program     	| Det skal se indbydende ud for brugeren                    	| nice-to-have 	|
-| Forside af bøger 	| Man skal kunne se bøgernes forside når man går ind på dem 	| nice-to-have 	|
+| titel            	| Beskrivelse                                                                         	| prioritet    	|
+|------------------	|-------------------------------------------------------------------------------------	|--------------	|
+| Søging           	| Man skal kunne søge på bøger, ved titel, forfatter, gernre osv.                     	| need-to-have 	|
+| Menu             	| Man skal kunne gå ind under forskellige kategorier                                  	| nice-to-have 	|
+| Program struktur 	| Det skal være struktureret med tabeller så brugere for et hurtigt og bedre overblik 	| nice-to-have 	|
+| Forside af bøger 	| Man skal kunne se bøgernes forside når man går ind på dem                           	| nice-to-have 	|
 
 
 ## Programbeskrivelse med rutediagrammer
@@ -29,14 +29,16 @@ Use-case:
 Program-logik:
 (ik endnu)
 
-## Rolle-fordeling (arbejdsfordeling)
+## Arbejdsfordeling
 Redegørelse for arbejdsfordelingen i gruppen.
 
 ## Kilder og ressourcer
 Redegørelse for brug af eksterne ressourcer og kilder.
 
 ## Brug af AI
+1) Vi brugte Chatgtp for at finde den bedste API der ville dække over alle vores krav til hvad man skal kunne søge efter. Først sprurgte vi om "find et API der kan gøre dette:" og derefter indsatte vi hele vores projektbeskrivelse, her gav den os tre forslag. Vi spurget den så "hvilken er det nemmeste tror du?" hvor den gav os Google Books API som den nemmeste der opfylder vores krav. Vi gjorde det for at finde en API som ville opfylde alle vores krav uden vi skulle bruge for lang tid på at lede. Samtidig mener vi ikke at det er særlig væsentligt at chat er kommet på det API som vi skulle bruge, da vi højst sansynligt alligevel ville have valgt et API magen til.
 Redegørelse for brug af AI.
+2) 
 
 ## Evaluering og vurdering
 Sammenfattende konklusion og vurdering.
