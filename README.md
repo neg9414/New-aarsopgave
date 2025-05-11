@@ -34,7 +34,7 @@ Use-case:
 ![image](Use-case.png)
 
 Program-logik:
-![image](Program-logik.png)
+![image](Program-logik.png) 
 
 ## Arbejdsfordeling
 **Marie** Har lavet hele programmet, herunder fundet den rigtig Google Books API webadresse og udvikling af synopsen.   
