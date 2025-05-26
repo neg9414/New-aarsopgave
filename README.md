@@ -38,7 +38,7 @@ Program-logik:
 
 ## Arbejdsfordeling
 **Marie** Har lavet hele programmet, herunder fundet den rigtig Google Books API webadresse og udvikling af synopsen.   
-**Jessica** Hjælper med at lave kravspecifikationen, rette stavefejl og teste programmet. I starten kunne denne person ikke åbne programmet, dette fik vi rette et stykke tid men problemet opstod igen senere.
+**Jessica** Hjælper med at lave kravspecifikationen, rette stavefejl, teste programmet og undersøgt forskellige teknikker til vores kode. I starten kunne hun ikke åbne programmet, dette fik vi rette et stykke tid men problemet opstod igen senere.
 
 ## Kilder og ressourcer
 - **Google Books API**: Anvendt til at hente bogdata baseret på brugerens søgekriterier.
